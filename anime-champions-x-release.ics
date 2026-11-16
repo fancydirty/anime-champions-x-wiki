@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//animechampionsx.wiki//EN
+BEGIN:VEVENT
+UID:acx-release-2026@animechampionsx.wiki
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Anime Champions X releases
+DESCRIPTION:Release day announced by the developer. No hour has been given. https://animechampionsx.wiki/release-date
+URL:https://animechampionsx.wiki/release-date
+END:VEVENT
+END:VCALENDAR
